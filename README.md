@@ -1,3 +1,85 @@
-# endfield-minimaki
+<div align="center">
 
-<img width="1527" height="1527" alt="app_icon_square_round" src="https://github.com/user-attachments/assets/b6ea3a7c-c101-4484-bf47-92e2bc4fde5c" />
+<img width="180" height="180" alt="Endfield Minimaki icon" src="https://github.com/user-attachments/assets/b6ea3a7c-c101-4484-bf47-92e2bc4fde5c" />
+
+# Endfield Minimaki
+
+**Your essential companion for exploring Arknights: Endfield**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
+[![Material Design 3](https://img.shields.io/badge/UI-Material%20Design%203-purple.svg)](https://m3.material.io/)
+
+</div>
+
+---
+
+## 👋 Welcome
+
+Welcome to **Endfield Minimaki** — the go-to reference app for *Arknights: Endfield* fans!  
+Whether you're planning your next team build, comparing weapons, or just browsing your favourite characters, Endfield Minimaki puts all the information you need in one clean, fast, and offline-capable app.
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---|---|
+| 🗂️ **Character Grid** | Browse all characters in a beautiful 2-column grid layout |
+| 📖 **Detailed Profiles** | View skills, stats, and lore for every character |
+| ⭐ **Rarity Indicators** | Visual rarity tags for instant identification |
+| 📱 **Responsive UI** | Smooth navigation optimised for all screen sizes |
+| 📶 **Offline Access** | Full character data available after the initial download |
+| 🎨 **Material Design 3** | Modern interface with dynamic theme customisation |
+| ⚔️ **Weapons & Gear** | Weapon and gear stats right at your fingertips |
+| 🔄 **Auto Patching** | Automatic data updates to keep everything current |
+
+---
+
+## 🎯 What You Can Do
+
+- **Explore** comprehensive character profiles — skills, stats, artwork, and more
+- **Compare** weapons and gear to optimise your loadouts
+- **Plan** your team strategy with detailed character information
+- **Browse offline** — no internet connection required after the first sync
+
+---
+
+## 📸 Screenshots
+
+> _Screenshots coming soon! Help us by contributing your own in a pull request or issue._
+
+<!-- Add screenshots here once available, e.g.:
+<p align="center">
+  <img src="screenshots/character_grid.png" width="30%" alt="Character Grid" />
+  <img src="screenshots/character_detail.png" width="30%" alt="Character Detail" />
+  <img src="screenshots/weapon_stats.png" width="30%" alt="Weapon Stats" />
+</p>
+-->
+
+---
+
+## 🚀 Getting Started
+
+1. **Download** the latest APK from the [Releases](../../releases) page.
+2. **Install** the APK on your Android device (enable *Install from unknown sources* if prompted).
+3. **Launch** the app — it will download the latest character data on first run.
+4. **Browse offline** any time after the initial sync is complete.
+
+---
+
+## 💬 Feedback & Contributing
+
+Your feedback is what makes Endfield Minimaki better!
+
+- 🐛 **Found a bug?** [Open an issue](../../issues/new)
+- 💡 **Have an idea?** [Request a feature](../../issues/new)
+- 📸 **Want to help?** Submit screenshots, translations, or character data corrections via a pull request
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+> *Endfield Minimaki is a fan-made, unofficial companion app. Arknights: Endfield and all related assets are property of HyperGryph / Yostar.*
