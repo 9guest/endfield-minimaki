@@ -49,13 +49,17 @@ Whether you're planning your next team build, comparing weapons, or just browsin
 
 > _Screenshots coming soon! Help us by contributing your own in a pull request or issue._
 
-<!-- Add screenshots here once available, e.g.:
+
 <p align="center">
-  <img src="screenshots/character_grid.png" width="30%" alt="Character Grid" />
-  <img src="screenshots/character_detail.png" width="30%" alt="Character Detail" />
-  <img src="screenshots/weapon_stats.png" width="30%" alt="Weapon Stats" />
+  <img width="417" height="833" alt="image" src="https://github.com/user-attachments/assets/ce4639a2-0d77-468f-b378-52fb18fafcb3" />
+  <img width="419" height="837" alt="image" src="https://github.com/user-attachments/assets/93dab417-f56d-4c0c-9a5f-cee371626cbc" />
+  <img width="417" height="835" alt="image" src="https://github.com/user-attachments/assets/3c532e68-0e62-48d8-bd26-52694d501b83" />
+  <img width="420" height="845" alt="image" src="https://github.com/user-attachments/assets/b2fc8b3b-1b1d-4fda-b7f8-a42060d50631" />
+  <img width="411" height="801" alt="image" src="https://github.com/user-attachments/assets/e479d8af-04a2-4297-b434-befae38eed45" />
+  <img width="410" height="854" alt="image" src="https://github.com/user-attachments/assets/fd3ec735-abbf-4726-b329-64140b68d928" />
+  <img width="417" height="826" alt="image" src="https://github.com/user-attachments/assets/f85a5278-9988-452f-9a3d-71d97820144b" />
+  <img width="423" height="827" alt="image" src="https://github.com/user-attachments/assets/097271cd-9b44-4e1e-9930-19709422d513" />
 </p>
--->
 
 ---
 
@@ -77,19 +81,6 @@ Your feedback is what makes Endfield Minimaki better!
 - 📸 **Want to help?** Submit screenshots, translations, or character data corrections via a pull request
 
 ---
-
-## Screenshots
-
-<img width="417" height="833" alt="image" src="https://github.com/user-attachments/assets/ce4639a2-0d77-468f-b378-52fb18fafcb3" />
-<img width="419" height="837" alt="image" src="https://github.com/user-attachments/assets/93dab417-f56d-4c0c-9a5f-cee371626cbc" />
-<img width="417" height="835" alt="image" src="https://github.com/user-attachments/assets/3c532e68-0e62-48d8-bd26-52694d501b83" />
-<img width="420" height="845" alt="image" src="https://github.com/user-attachments/assets/b2fc8b3b-1b1d-4fda-b7f8-a42060d50631" />
-<img width="411" height="801" alt="image" src="https://github.com/user-attachments/assets/e479d8af-04a2-4297-b434-befae38eed45" />
-<img width="410" height="854" alt="image" src="https://github.com/user-attachments/assets/fd3ec735-abbf-4726-b329-64140b68d928" />
-<img width="417" height="826" alt="image" src="https://github.com/user-attachments/assets/f85a5278-9988-452f-9a3d-71d97820144b" />
-<img width="423" height="827" alt="image" src="https://github.com/user-attachments/assets/097271cd-9b44-4e1e-9930-19709422d513" />
-
-
 
 ## 📄 License
 
