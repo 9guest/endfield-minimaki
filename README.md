@@ -80,4 +80,4 @@ Your feedback is what makes Endfield Minimaki better!
 
 This project is licensed under the [MIT License](LICENSE).
 
-> *Endfield Minimaki is a fan-made, unofficial companion app. Arknights: Endfield and all related assets are property of HyperGryph / Yostar.*
+> *Endfield Minimaki is a fan-made, unofficial companion app. Arknights: Endfield and all related assets are property of HyperGryph / Gryphline.*
