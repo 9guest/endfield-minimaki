@@ -47,9 +47,6 @@ Whether you're planning your next team build, comparing weapons, or just browsin
 
 ## 📸 Screenshots
 
-> _Screenshots coming soon! Help us by contributing your own in a pull request or issue._
-
-
 <p align="center">
   <img width="417" height="833" alt="image" src="https://github.com/user-attachments/assets/ce4639a2-0d77-468f-b378-52fb18fafcb3" />
   <img width="419" height="837" alt="image" src="https://github.com/user-attachments/assets/93dab417-f56d-4c0c-9a5f-cee371626cbc" />
