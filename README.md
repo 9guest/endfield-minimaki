@@ -49,13 +49,14 @@ Whether you're planning your next team build, comparing weapons, or just browsin
 
 | 🏷️ Features | 🏷️ Operators | 🏷️ Weapons | 🏷️ Gear |
 |---|---|---|---|
-| <img width="220" alt="Character Grid" src="https://github.com/user-attachments/assets/ce4639a2-0d77-468f-b378-52fb18fafcb3" /> | <img width="220" alt="Character Profile" src="https://github.com/user-attachments/assets/93dab417-f56d-4c0c-9a5f-cee371626cbc" /> | <img width="220" alt="Skill Details" src="https://github.com/user-attachments/assets/3c532e68-0e62-48d8-bd26-52694d501b83" /> | <img width="220" alt="Team Setup" src="https://github.com/user-attachments/assets/b2fc8b3b-1b1d-4fda-b7f8-a42060d50631" /> |
+| <img width="220" alt="Character Grid" src="https://github.com/user-attachments/assets/47b6297d-b8fc-4765-9ef9-3b048eb0b597" /> | <img width="220" alt="Character Profile" src="https://github.com/user-attachments/assets/93dab417-f56d-4c0c-9a5f-cee371626cbc" /> | <img width="220" alt="Skill Details" src="https://github.com/user-attachments/assets/3c532e68-0e62-48d8-bd26-52694d501b83" /> | <img width="220" alt="Team Setup" src="https://github.com/user-attachments/assets/b2fc8b3b-1b1d-4fda-b7f8-a42060d50631" /> |
 
 | 🏷️ Recipes | 🏷️ Official News | 🏷️ Settings | 🏷️ About App |
 |---|---|---|---|
-| <img width="220" alt="Weapons" src="https://github.com/user-attachments/assets/e479d8af-04a2-4297-b434-befae38eed45" /> | <img width="220" alt="Gear" src="https://github.com/user-attachments/assets/fd3ec735-abbf-4726-b329-64140b68d928" /> | <img width="220" alt="Settings" src="https://github.com/user-attachments/assets/f85a5278-9988-452f-9a3d-71d97820144b" /> | <img width="220" alt="Data Update" src="https://github.com/user-attachments/assets/097271cd-9b44-4e1e-9930-19709422d513" /> |
+| <img width="220" alt="Weapons" src="https://github.com/user-attachments/assets/94c2b2a6-959c-41c8-a990-c0dd607174aa" /> | <img width="220" alt="Gear" src="https://github.com/user-attachments/assets/e5a45258-5dae-4eea-a78e-463d02e6698f" /> | <img width="220" alt="Settings" src="https://github.com/user-attachments/assets/f85a5278-9988-452f-9a3d-71d97820144b" /> | <img width="220" alt="Data Update" src="https://github.com/user-attachments/assets/097271cd-9b44-4e1e-9930-19709422d513" /> |
 
 ---
+
 
 ## 🚀 Getting Started
 
