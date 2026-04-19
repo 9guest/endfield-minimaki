@@ -57,13 +57,10 @@ Whether you're planning your next team build, comparing weapons, or just browsin
 
 ---
 
+## ⬇️ Download availability
 
-## 🚀 Getting Started
-
-1. **Download** the latest APK from the [Releases](../../releases) page.
-2. **Install** the APK on your Android device (enable *Install from unknown sources* if prompted).
-3. **Launch** the app — it will download the latest character data on first run.
-4. **Browse offline** any time after the initial sync is complete.
+-  The app can currently be downloaded only through [**Google Play Closed Testing**](https://play.google.com/apps/testing/com.yclab.endfieldminimaki).  
+-  If you'd like to join the testing program, please leave your email in the [**GitHub Discussions**](https://github.com/9guest/endfield-minimaki/discussions/4) and wait for a reply.
 
 ---
 
