@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Endfield Minimaki | Tiny Game Wiki Companion</title>
+    <meta
+      name="description"
+      content="Join Endfield Minimaki closed testing and explore the stylish tiny wiki companion for Arknights: Endfield."
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="https://github.com/user-attachments/assets/b6ea3a7c-c101-4484-bf47-92e2bc4fde5c"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-orb orb-a" aria-hidden="true"></div>
+    <div class="bg-orb orb-b" aria-hidden="true"></div>
+    <div class="grid-noise" aria-hidden="true"></div>
+
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Endfield Minimaki home">
+        <span class="brand-mark" aria-hidden="true">
+          <img
+            src="https://github.com/user-attachments/assets/b6ea3a7c-c101-4484-bf47-92e2bc4fde5c"
+            alt=""
+            loading="eager"
+          />
+        </span>
+        <span class="brand-text">Endfield Minimaki</span>
+      </a>
+      <nav class="site-nav">
+        <a href="#features">Features</a>
+        <a href="#screens">Screens</a>
+        <a href="#news">News</a>
+        <a href="#closed-test">Join Closed Test</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero section reveal">
+        <div class="hero-copy">
+          <p class="eyebrow">Tiny Game Wiki App</p>
+          <h1>Your essential Arknights: Endfield companion.</h1>
+          <p class="lead">
+            A fast, offline-ready, beautifully organized mini wiki for operators, weapons,
+            gear, crafting, and official updates.
+          </p>
+          <div class="hero-cta">
+            <a class="btn btn-primary" href="#closed-test">Join Closed Testing</a>
+            <a class="btn btn-ghost" href="#features">Explore Features</a>
+          </div>
+        </div>
+
+        <aside class="hero-card">
+          <p class="card-label">Google Play Goal</p>
+          <h2>Help unlock global publishing</h2>
+          <p>
+            Google Play requires enough real testers. Join the closed test and submit your
+            email so you can be added quickly.
+          </p>
+          <ul>
+            <li>No spam</li>
+            <li>One-time onboarding</li>
+            <li>Get early access builds</li>
+          </ul>
+        </aside>
+      </section>
+
+      <section id="features" class="section reveal">
+        <h2>Why Endfield Minimaki feels different</h2>
+        <div class="feature-grid">
+          <article class="feature-tile">
+            <h3>Operator Profiles</h3>
+            <p>Browse skills, stats, and rarity in a clear and compact format.</p>
+          </article>
+          <article class="feature-tile">
+            <h3>Weapons and Gear</h3>
+            <p>Compare loadouts quickly to optimize your team strategy.</p>
+          </article>
+          <article class="feature-tile">
+            <h3>Offline-Ready Data</h3>
+            <p>After first sync, continue exploring without internet.</p>
+          </article>
+          <article class="feature-tile">
+            <h3>Auto Data Patching</h3>
+            <p>Stay current with updates while keeping the app lightweight.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="screens" class="section reveal">
+        <h2>Live app vibes</h2>
+        <div class="screen-grid">
+          <figure class="screen-card">
+            <img
+              src="https://github.com/user-attachments/assets/47b6297d-b8fc-4765-9ef9-3b048eb0b597"
+              alt="Character Grid"
+            />
+            <figcaption>Character Grid</figcaption>
+          </figure>
+          <figure class="screen-card">
+            <img
+              src="https://github.com/user-attachments/assets/93dab417-f56d-4c0c-9a5f-cee371626cbc"
+              alt="Character Profile"
+            />
+            <figcaption>Operator Details</figcaption>
+          </figure>
+          <figure class="screen-card">
+            <img
+              src="https://github.com/user-attachments/assets/f85a5278-9988-452f-9a3d-71d97820144b"
+              alt="Settings"
+            />
+            <figcaption>Settings and Theme</figcaption>
+          </figure>
+          <figure class="screen-card">
+            <img
+              src="https://github.com/user-attachments/assets/097271cd-9b44-4e1e-9930-19709422d513"
+              alt="Data Update"
+            />
+            <figcaption>Auto Patch Update</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <section id="news" class="section reveal">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">Latest Updates</p>
+            <h2>Endfield Minimaki Newsboard</h2>
+          </div>
+          <a class="btn btn-ghost" href="#closed-test">Become a Tester</a>
+        </div>
+        <div id="news-list" class="news-grid" aria-live="polite"></div>
+      </section>
+
+      <section id="closed-test" class="section reveal">
+        <div class="signup-wrap">
+          <div class="signup-copy">
+            <p class="eyebrow">Closed Testing Registration</p>
+            <h2>Join the tester list</h2>
+            <p>
+              Submit your email to receive testing access. This directly helps reach Google
+              Play requirements for global launch.
+            </p>
+          </div>
+
+          <div class="form-shell">
+            <div data-fs-success class="form-message success"></div>
+            <div data-fs-error class="form-message error"></div>
+
+            <form id="closed-test-form" class="signup-form" novalidate>
+              <label for="email">Google account email</label>
+              <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="you@example.com"
+                autocomplete="email"
+                required
+                data-fs-field
+              />
+              <span data-fs-error="email" class="field-error"></span>
+
+              <label for="region">Region (optional)</label>
+              <input
+                type="text"
+                id="region"
+                name="region"
+                placeholder="Country or region"
+                maxlength="60"
+                data-fs-field
+              />
+              <span data-fs-error="region" class="field-error"></span>
+
+              <label for="note">Anything you want to test first? (optional)</label>
+              <textarea
+                id="note"
+                name="note"
+                placeholder="Characters, weapons, recipes, UI..."
+                rows="4"
+                data-fs-field
+              ></textarea>
+              <span data-fs-error="note" class="field-error"></span>
+
+              <input type="hidden" name="source" value="Endfield Minimaki landing page" />
+              <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="hp" />
+
+              <button type="submit" data-fs-submit-btn class="btn btn-primary full">
+                Send My Email
+              </button>
+            </form>
+
+            <p class="fineprint">
+              By submitting, you agree to be contacted only for testing onboarding updates.
+            </p>
+            <p id="join-note" class="join-note" role="status" aria-live="polite"></p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer reveal">
+      <p>Endfield Minimaki is a fan-made unofficial companion app.</p>
+      <p>Arknights: Endfield assets belong to HyperGryph and Gryphline.</p>
+    </footer>
+
+    <script>
+      window.formspree =
+        window.formspree ||
+        function () {
+          (formspree.q = formspree.q || []).push(arguments);
+        };
+      formspree('initForm', {
+        formElement: '#closed-test-form',
+        formId: 'xeevlldz',
+      });
+    </script>
+    <script src="https://unpkg.com/@formspree/ajax@1" defer></script>
+    <script src="script.js"></script>
+  </body>
+</html>
